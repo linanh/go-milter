@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/emersion/go-message/textproto"
-	"github.com/emersion/go-milter"
+	"github.com/linanh/go-message/textproto"
+	"github.com/linanh/go-milter"
 )
 
 func printAction(prefix string, act *milter.Action) {

@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/emersion/go-message/textproto"
+	"github.com/linanh/go-message/textproto"
 )
 
 func init() {
