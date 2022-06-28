@@ -3,8 +3,8 @@ github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20211204205839-489de649cafb/go.m
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/emersion/go-textwrapper v0.0.0-20200911093747-65d896831594/go.mod h1:aqO8z8wPrjkscevZJFVE1wXJrLpC5LtJG7fqLOsPb2U=
-github.com/linanh/go-message v0.15.1 h1:X9UVuZgcNks3MPSmIjROn4dADbm2AbiQAMZDo3/CLI8=
-github.com/linanh/go-message v0.15.1/go.mod h1:04t5M4Q/1/NLHjshK4wBqywPG4tS4J5HQgp5sPVtyls=
+github.com/linanh/go-message v0.16.0 h1:2IzyyCuCyt59y4gMf85Foysif+J2DYUKSP7y4dFlCHY=
+github.com/linanh/go-message v0.16.0/go.mod h1:04t5M4Q/1/NLHjshK4wBqywPG4tS4J5HQgp5sPVtyls=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
